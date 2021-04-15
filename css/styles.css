@@ -1,0 +1,146 @@
+body{
+  background-color:#faf6e9;
+  margin:50px;
+  text-align:center;
+  font-family:'Thasadith', sans-serif;
+  font-size:1rem
+}
+ul{
+  font-size:1rem
+}
+hr{
+  border-style:none;
+  border-style:dotted;
+  border-color:#ece8d9;
+  width:7%;
+  border-width:7px;
+  border-bottom:none
+
+}
+h1{
+    margin-top:0;
+    font-family:'Fredericka the Great', cursive;
+    font-size:4rem;
+    color:black;
+}
+h2{
+  font-family:'Antonio', sans-serif;
+  font-size:2rem;
+  color:#4e3620;
+}
+h3{
+  font-family:'Antonio', sans-serif;
+  font-size:1.5rem;
+   color:#4e3620;
+}
+a{
+  margin:10px 20px;
+  font-family:'Thasadith', sans-serif;
+  color:black;
+}
+.bee{
+width:30%;
+float:right;
+
+
+}
+.catapiler1{
+  position:absolute;
+  right:580px;
+  width:53.5%;
+
+
+
+}
+.catipiller2{
+  width:40%;
+}
+
+.LEAVES{
+  width:900px;
+  height:400px;
+}
+.linkedin-icon{
+  width:50px;
+  height:50px;
+}
+.twitter-icon{
+  width:50px;
+  height:50px;
+}
+.website-icon{
+  width:50px;
+  height:50px;
+}
+.top-container{
+  margin-bottom:30px;
+
+  position: relative;
+  padding-top:100px;
+  margin-left:150px;
+  margin-right:150px;
+  outline-style: solid;
+  outline-width: thin;
+}
+.middle-container{
+  margin:150px;
+  margin-top:50px;
+  background-color:#fffdf6;
+  outline-style: solid;
+  outline-width: thin;
+
+}
+.bottom-container{
+  padding:50px 0 10px;
+  outline-style: solid;
+  outline-width: thin;
+}
+
+.skill-row{
+margin:auto;
+line-height:2;
+width:60%;
+
+
+
+}
+.Team{
+  width:500px;
+  margin-left:auto;
+
+
+
+}
+.inova{
+ margin:auto;
+
+}
+.btn {
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   color: #000000;
+   font-family:'Thasadith', sans-serif;
+   font-size: 27px;
+   font-weight: 200;
+   padding: 20px;
+   border: solid #C3A677 3px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #FDE7BC 0;
+   background: #EBBD51;
+   background-image: -webkit-linear-gradient(top, #EBBD51, #FFD88C);
+   background-image: -moz-linear-gradient(top, #EBBD51, #FFD88C);
+   background-image: -ms-linear-gradient(top, #EBBD51, #FFD88C);
+   background-image: -o-linear-gradient(top, #EBBD51, #FFD88C);
+   background-image: -webkit-gradient(to bottom, #EBBD51, #FFD88C);
+   -webkit-border-radius: 9px;
+   -moz-border-radius: 9px;
+   border-radius: 9px;
+   text-decoration: none;
+}
